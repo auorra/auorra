@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Farah. I like designing and developing experiences.
 - 🌱 I’m currently learning more of JavaScript and Vue.
 
-<p align="center">
+<p align="left">
   <img width="460" height="300" src="My_universe.png">
 </p>
 
