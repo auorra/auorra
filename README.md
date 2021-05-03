@@ -4,7 +4,7 @@
 </p>
 
 <p align="right">
-  <img width="460" height="300" src="My_universe.png">
+  <img width="460" height="500" src="My_universe.png">
 </p>
 
 <!---
