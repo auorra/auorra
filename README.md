@@ -1,5 +1,5 @@
 👋 Hi there, I’m Farah. I like designing and developing experiences.
-- 🌱 I’m currently learning more of JavaScript and Vue.
+- 🌱 I’m currently practicing more of JavaScript and Vue.
 
 <!---
 auorra/auorra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
