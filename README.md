@@ -1,4 +1,4 @@
-👋 Hi there, I’m Farah. I like designing and developing experiences.
+👋 Hi there, I’m Farah. I am a Frontend Developer and I love designing and developing experiences.
 - 🌱 I’m currently practicing more of JavaScript and Vue.
 
 
