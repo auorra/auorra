@@ -1,4 +1,4 @@
-👋 Hi there, I’m Farah. I am a Frontend Developer who loves to design and develop experiences.
+##👋 Hi there, I’m Farah. I am a Frontend Developer who loves to design and develop experiences.
 
 Below are a list of things I have tried:
 🖌 Drawing 
