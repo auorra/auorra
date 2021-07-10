@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/auorra/auorra/master/banner.gif" width="1000px">
 
-<h3>👋 Hi, I’m Farah.</h3>
 <h4>I am a Frontend Developer who loves to design and develop experiences.</h4>
 
 Below are a list of things I have tried:
