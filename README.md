@@ -1,4 +1,5 @@
-<left>👋 Hi there, I’m Farah. I am a Frontend Developer who loves to design and develop experiences.
+👋 Hi there, I’m Farah. I am a Frontend Developer who loves to design and develop experiences.
+<i class="ri-global-fill"></i>
 
 Below are a list of things I have tried:
 🖌 Drawing 
@@ -8,15 +9,9 @@ Below are a list of things I have tried:
 📚 Searched for books of all genres for everyone
 👗 Put together different looks and styles for women of all ages to try out
 🤸‍♀️ Helped folks get fit by signing up for workouts
-</left>
-
-
 
 <!-- ![Auorra's GitHub stats](https://github-readme-stats.vercel.app/api?username=auorra&show_icons=true&theme=radical)
-
 ![](https://komarev.com/ghpvc/?username=auorra&color=green) -->
-
-
 
 <!---
 auorra/auorra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
