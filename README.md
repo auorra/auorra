@@ -1,4 +1,5 @@
-<h3>👋 Hi there, I’m Farah. I am a Frontend Developer who loves to design and develop experiences.</h3>
+<h3>👋 Hi there, I’m Farah. </h3>
+<h4>I am a Frontend Developer who loves to design and develop experiences.</h4>
 
 Below are a list of things I have tried:
 🖌 Drawing 
