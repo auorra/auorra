@@ -2,25 +2,31 @@
 
 <!-- <h4>I am a Frontend Developer who loves to design and develop experiences.</h4> -->
 
-<!-- List of things I have tried: | List of things I am currently doing:
----------------------------- | ------------------------------------
-```🖌 Drawing </h6>
-🏸 Playing Badminton in High School</h6>
-<h6>👩 Answered phone calls as Receptionist / Office Administrator</h6>
-<h6>✈ Helped elderly, and ensured safety of passengers (with offering lots of wine) as a Flight Attendant</h6>
-<h6>📚 Searched for books of all genres for everyone</h6>
-<h6>👗 Put together different looks and styles for women of all ages to try out</h6>
-<h6>🤸‍♀️ Helped folks get fit by signing up for workouts</h6>
-<h6>🎨 Studied Makeup Artistry and hair styling</h6>
-<h6>💄 Helped glam up ladies for special occasions</h6>
-<br>
-<h5>List of things I am currently doing: </h5>```
- -->
+List of things I have tried: 
+```
+🖌 Drawing
+🏸 Playing Badminton in High School
+👩 Answered phone calls as Receptionist / Office Administrator
+✈ Helped elderly, and ensured safety of passengers (with offering lots of wine) as a Flight Attendant
+📚 Searched for books of all genres for everyone
+👗 Put together different looks and styles for women of all ages to try out
+🤸‍♀️ Helped folks get fit by signing up for workouts
+🎨 Studied Makeup Artistry and hair styling
+💄 Helped glam up ladies for special occasions
+```
+
+List of things I am currently working on:
+```
+📖 Learning everything about JavaScript and Vue
+💻 Building projects using HTML, CSS & JavaScript
+
+```
 
 <!-- ![Auorra's GitHub stats](https://github-readme-stats.vercel.app/api?username=auorra&show_icons=true&theme=radical)
-![](https://komarev.com/ghpvc/?username=auorra&color=green) -->
+![](https://komarev.com/ghpvc/?username=auorra&color=green)
 
-<!---
 auorra/auorra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can click the Preview link to take a look at your changes. -->
+
+
+
