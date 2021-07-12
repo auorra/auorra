@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/auorra/auorra/master/banner7.svg" width="1000px">
+<!-- <img src="https://raw.githubusercontent.com/auorra/auorra/master/banner7.svg" width="1000px"> -->
 
 <h4>I am a Frontend Developer who loves to design and develop experiences.</h4>
 
