@@ -15,12 +15,9 @@
 🎨 Studied Makeup Artistry and hair styling;
 💄 Helped glam up ladies for special occasions;
 ``` -->
-<!-- 
-List of things I am working on: -->
-  
-    👩🏽‍💻 Currently working on something cool; <br>
-    📖 Learning everything about JavaScript and Vue;<br>
-    🔧 Building projects using HTML, CSS & JavaScript;<br>
+👩🏽‍💻 Currently working on something cool; <br>
+📖 Learning everything about JavaScript and Vue;<br>
+🔧 Building projects using HTML, CSS & JavaScript;<br>
 
 
 
