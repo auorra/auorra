@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/auorra/auorra/master/banner5.svg" width="1000px">
+<img src="https://raw.githubusercontent.com/auorra/auorra/master/banner7.svg" width="1000px">
 
-<!-- <h4>I am a Frontend Developer who loves to design and develop experiences.</h4> -->
+<h4>I am a Frontend Developer who loves to design and develop experiences.</h4>
 
-<h4>List of things I have tried:</h4>
+<!-- <h4>List of things I have tried:</h4>
 
 ```
 🖌 Drawing;
@@ -14,17 +14,17 @@
 🤸‍♀️ Helped folks get fit by signing up for workouts;
 🎨 Studied Makeup Artistry and hair styling;
 💄 Helped glam up ladies for special occasions;
-```
+``` -->
+<!-- 
+List of things I am working on: -->
+  
+    👩🏽‍💻 Currently working on something cool; <br>
+    📖 Learning everything about JavaScript and Vue;<br>
+    🔧 Building projects using HTML, CSS & JavaScript;<br>
 
-List of things I am working on:
-```
-👩🏽‍💻 Currently working on something cool;
-📖 Learning everything about JavaScript and Vue;
-🔧 Building projects using HTML, CSS & JavaScript;
-📝 Transcriptioning for fun
-```
 
-<h3 align="center">⚙ Languages and Tools I use:</h3>
+
+<h3 align="center">⚙ My Tech Stack</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
