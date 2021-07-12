@@ -16,8 +16,8 @@
 💄 Helped glam up ladies for special occasions;
 ``` -->
 👩🏽‍💻 Currently working on something cool; <br>
-📖 Learning everything about JavaScript and Vue;<br>
-🔧 Building projects using HTML, CSS & JavaScript;<br>
+📚 Learning everything about JavaScript and Vue;<br>
+🛠 Building projects using HTML, CSS & JavaScript;<br>
 
 
 
