@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/auorra/auorra/master/banner7.svg" width="1000px"> -->
 
-<h4>I am a Frontend Developer who loves to design and develop experiences.</h4>
+<h3>Hey, I am Farah. I am a Frontend Developer who loves to design and develop experiences.</h3>
 
 <!-- <h4>List of things I have tried:</h4>
 
