@@ -15,6 +15,7 @@
 🎨 Studied Makeup Artistry and hair styling;
 💄 Helped glam up ladies for special occasions;
 ``` -->
+👋🏽 Hey, I am Farah!
 👩🏽‍💻 Currently working on something cool; <br>
 📚 Learning everything about JavaScript, Vue, Data Structures and Algorithms;<br>
 🛠 Building projects using HTML, CSS & JavaScript;<br>
