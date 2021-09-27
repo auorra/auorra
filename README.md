@@ -17,7 +17,7 @@
 ``` -->
 
 👋🏽 Hey, I am Farah! <br>
-I like to build stuff for fun.
+I like to build stuff for fun 💃🏽
 
 <!-- 👋🏽 Hi, I am Farah! <br>
 👩🏽‍💻 Currently working on something cool; <br>
