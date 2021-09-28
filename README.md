@@ -16,7 +16,7 @@
 💄 Helped glam up ladies for special occasions;
 ``` -->
 
-<h6>👋🏽 Hey, I am Farah!</h6> <br>
+👋🏽 Hey, I am Farah!<br>
 I like to build stuff for fun 💃🏽
 
 <!-- 👋🏽 Hi, I am Farah! <br>
