@@ -17,7 +17,7 @@
 ``` -->
 
 <h6>👋🏽 Hey, I am Farah!</h6> <br>
-<h6>I like to build stuff for fun 💃🏽</h6>
+I like to build stuff for fun 💃🏽
 
 <!-- 👋🏽 Hi, I am Farah! <br>
 👩🏽‍💻 Currently working on something cool; <br>
